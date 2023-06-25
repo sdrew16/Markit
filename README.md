@@ -1,4 +1,6 @@
-# README
+# Markit
+A social media platform for local market patrons and organizers
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -22,3 +24,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# Markit
+A social media platform for local market patrons and organizers
