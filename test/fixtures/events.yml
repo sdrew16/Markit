@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: MyString
+  entry: 1
+  start_time: 2023-06-25 12:08:22
+  end_time: 2023-06-25 12:08:22
+  icon: MyString
+  deleted_at: 2023-06-25 12:08:22
+
+two:
+  location: MyString
+  entry: 1
+  start_time: 2023-06-25 12:08:22
+  end_time: 2023-06-25 12:08:22
+  icon: MyString
+  deleted_at: 2023-06-25 12:08:22
